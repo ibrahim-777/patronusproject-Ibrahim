@@ -1,3 +1,3 @@
 const { createElement } = require("react");
 
-let p = createElement("p")
+let p = document.createElement("p")
